@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    
+}
+
+body{
+    background-image: url('../images/bgtrial.jpg');
+}
+
+.subbt{
+    border-radius: 20px !important;
+}
+
+.schfr{
+    border-radius: 20px !important;
+}
+
+.catac{
+    border-radius: 50px !important;
+}
+
+.menac{
+    border-radius: 10px !important;
+}
+
+.pr{
+    margin-top: -10px;
+}
+
+.card-body{
+    background-color: rgba(245, 245, 245, 0.6);
+}
